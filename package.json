@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/generator-app-aem-react",
+  "name": "@duynguyen/generator-app-aem-react",
   "version": "0.0.1",
   "main": "src/index.js",
   "engines": {
