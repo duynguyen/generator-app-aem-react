@@ -1,6 +1,7 @@
 {
   "name": "@duynguyen/generator-app-aem-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "Template for AEM React SPA based on WKND content.",
   "main": "src/index.js",
   "engines": {
     "node": "^14 || ^16"
