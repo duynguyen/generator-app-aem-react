@@ -1,11 +1,15 @@
 {
-  "name": "generator-app-aem-react",
+  "name": "@adobe/generator-app-aem-react",
   "version": "0.0.1",
   "main": "src/index.js",
+  "engines": {
+    "node": "^14 || ^16"
+  },
   "keywords": [
     "ecosystem:aio-app-builder-templates"
   ],
   "dependencies": {
+    "@adobe/generator-app-common-lib": "^0.3.3",
     "yeoman-generator": "^5",
     "yeoman-environment": "^3"
   },
